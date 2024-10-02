@@ -1,0 +1,13 @@
+#server1&2
+[web_servers]
+192.168.56.11
+192.168.56.13
+192.168.56.12 ansible_user=rcatapang
+
+#centOS
+[db_servers]
+192.168.56.12 ansible_user=rcatapang
+
+#server3
+[file_servers]
+192.168.56.14
