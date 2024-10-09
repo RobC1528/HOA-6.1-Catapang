@@ -11,3 +11,6 @@
 #server3
 [file_servers]
 192.168.56.14
+
+[workstations]
+192.168.56.14
